@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.prepmaster.demo.PrepMasterApiApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 57.978 s - in com.prepmaster.demo.PrepMasterApiApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 62.94 s - in com.prepmaster.demo.PrepMasterApiApplicationTests

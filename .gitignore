@@ -24,7 +24,7 @@ mvnw.cmd
 
 # Miscellaneous files and directories
 *.class
-*.jar
+# *.jar
 *.war
 *.ear
 .DS_Store
@@ -32,7 +32,7 @@ mvnw.cmd
 # Environment-specific files (remove or modify as needed)
 application-dev.properties
 application-prod.properties
-application.properties
+# application.properties
 
 # Maven
 #target/
@@ -48,20 +48,20 @@ buildNumber.properties
 .idea/
 
 # Spring Boot
-spring-boot-starter/target/
-spring-boot-sample/target/
-spring-boot-project/target/
-spring-boot-test/target/
+# spring-boot-starter/target/
+# spring-boot-sample/target/
+# spring-boot-project/target/
+# spring-boot-test/target/
 
-# Spring Boot Data JPA
-spring-boot-starter-data-jpa/target/
-spring-boot-sample-data-jpa/target/
-spring-boot-project-data-jpa/target/
-spring-boot-test-data-jpa/target/
+# # Spring Boot Data JPA
+# spring-boot-starter-data-jpa/target/
+# spring-boot-sample-data-jpa/target/
+# spring-boot-project-data-jpa/target/
+# spring-boot-test-data-jpa/target/
 
-# Spring Boot PostgreSQL Driver
-spring-boot-starter-data-jpa-postgresql/target/
-spring-boot-sample-data-jpa-postgresql/target/
-spring-boot-project-data-jpa-postgresql/target/
-spring-boot-test-data-jpa-postgresql/target/
->>>>>>> origin/main
+# # Spring Boot PostgreSQL Driver
+# spring-boot-starter-data-jpa-postgresql/target/
+# spring-boot-sample-data-jpa-postgresql/target/
+# spring-boot-project-data-jpa-postgresql/target/
+# spring-boot-test-data-jpa-postgresql/target/
+# >>>>>>> origin/main

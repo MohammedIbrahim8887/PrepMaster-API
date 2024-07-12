@@ -10,7 +10,7 @@ import java.util.List;
 @RequestMapping(path = "/api/teachers")
 @AllArgsConstructor
 @RestController
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "https://prepmaster-api-xwoy.onrender.com/api")
 public class TeacherController {
     private TeacherService teacherService;
 

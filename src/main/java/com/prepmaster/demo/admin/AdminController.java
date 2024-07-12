@@ -9,7 +9,7 @@ import java.util.List;
 @RequestMapping(path = "/api/admins")
 @AllArgsConstructor// creates a constructor, so we don't have too (Lombok)
 @RestController// Allows us to send http requests into it
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "https://prepmaster-api-xwoy.onrender.com/api")
 public class AdminController {
     private AdminService adminService;
 

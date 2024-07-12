@@ -9,7 +9,7 @@ import java.util.List;
 @RequestMapping(path = "/api/question_answers")
 @AllArgsConstructor
 @RestController
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "https://prepmaster-api-xwoy.onrender.com/api")
 public class QuestionAnswerController {
     private QuestionAnswerService questionAnswerService;
 
